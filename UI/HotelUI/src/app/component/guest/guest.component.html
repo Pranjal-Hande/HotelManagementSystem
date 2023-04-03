@@ -1,0 +1,41 @@
+<nav class="navbar navbar-light bg-primary">
+    <div class="container-fluid ">
+        <h1 style="color:aliceblue;"> Guest List</h1>
+        <div class="d-flex">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-success" routerLink='/guest/add'> Add Guest</button>
+        </div>
+    </div>
+</nav>
+<table class="table mt-3" *ngIf="guests" border=1>
+    <thead>
+        <tr>
+            
+            <th scope="col">Guest_id</th>
+            <th scope="col">E_mail</th>
+            <th scope="col">Guest_Name</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Address</th>
+            <th scope="col">Phone_number</th>
+            <th scope="col">Action</th> 
+        </tr>
+    </thead>
+    <tbody> 
+      <tbody>
+        <tr *ngFor = "let guest of guests">
+            <td>{{guest.guest_id}}</td>
+            <td>{{guest.e_mail}}</td>
+            <td>{{guest.guest_Name}}</td>
+            <td>{{guest.gender}}</td>
+            <td>{{guest.address}}</td>
+            <td>{{guest.phone_number}}</td>
+            <td> <button type="button" class="btn btn-primary mr-5" [routerLink]="['/guest','edit',guest.guest_id]">View</button>
+            </td>
+
+        </tr>
+
+    </tbody>
+</table>
+<p *ngIf="!guests || guests.length <=0"> No Guests found</p>
+      
+       
+  

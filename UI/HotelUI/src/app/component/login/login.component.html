@@ -1,0 +1,50 @@
+
+<div class="container" >  
+<form class="border border-dark p-4 rounded-3 login-form" [formGroup]="loginForm" (ngSubmit)="loginSubmitted()">
+    <div class="row g-0">
+        <div class="col text-center p-2 mb-3 bg-dark text-light">
+            <span class="fs-3"> Login Page </span>
+        </div>
+    </div>
+    <!-- username input -->
+    <div class="row mb-3 ps-4">
+    <label class="form-label" for="userName">Username :</label>
+      <input  type="text" id="userName" class="form-control" formControlName="userName">
+      <div class="form-text text-danger" *ngIf="userName.errors?.['required'] && (userName.dirty || userName.touched)">
+          Username is required.
+      </div>
+     
+    </div>
+  
+    <!-- Password input -->
+    <div class="row mb-3 ps-4">
+      <label class="form-label" for="Password">Password :</label>
+      <input type="Password" id="Password" class="form-control" formControlName="Password">
+      <div class="form-text text-danger" *ngIf="Password.errors?.['required'] && (Password.dirty || Password.touched)">
+        Password is required.
+    </div>
+    </div>
+
+    <div class="row mb-3 ps-4">
+      <label for="role" class="form-label">Role : </label><br>
+      <!-- <input type="text" class="form-control" id="role" formControlName="role"> -->
+      <select>
+          <option value="">-- Select an role --</option>
+          <option value="owner">Owner</option>
+          <option value="Manager">Manager</option>
+          <option value="receptionist"> Receptionist</option>
+        </select>
+    </div>
+
+   <br><br>
+    <!-- Submit button -->
+    <div class="row">
+      <div class="col-6 offset-3">
+      <div class="d-grid">
+          <button  type="submit" [disabled]="loginForm.invalid" class="btn btn-primary"> Sign in </button>
+      </div>
+      </div>
+   </div>
+  </form>
+</div>
+  

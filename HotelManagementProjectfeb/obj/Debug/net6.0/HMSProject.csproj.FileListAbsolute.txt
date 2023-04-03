@@ -1,0 +1,152 @@
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\appsettings.Development.json
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\appsettings.json
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.exe
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.deps.json
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.runtimeconfig.json
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.pdb
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\AutoMapper.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\FluentValidation.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Humanizer.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.csproj.AssemblyReference.cache
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.AssemblyInfoInputs.cache
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.AssemblyInfo.cs
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.csproj.CoreCompileInputs.cache
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets\msbuild.HMSProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets\msbuild.build.HMSProject.props
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMSProject.props
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMSProject.props
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\scopedcss\bundle\HMSProject.styles.css
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.csproj.CopyComplete
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\refint\HMSProject.dll
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.pdb
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.genruntimeconfig.cache
+D:\Hotel System project\MQApi-main\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\ref\HMSProject.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\appsettings.json
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.exe
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.deps.json
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.runtimeconfig.json
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\HMSProject.pdb
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.csproj.AssemblyReference.cache
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.AssemblyInfoInputs.cache
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.AssemblyInfo.cs
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.csproj.CoreCompileInputs.cache
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets\msbuild.HMSProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets\msbuild.build.HMSProject.props
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMSProject.props
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMSProject.props
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\scopedcss\bundle\HMSProject.styles.css
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.csproj.CopyComplete
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\refint\HMSProject.dll
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.pdb
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\HMSProject.genruntimeconfig.cache
+C:\Users\sanet\OneDrive\Desktop\HotelManagement\HotelManagementProjectfeb\obj\Debug\net6.0\ref\HMSProject.dll

@@ -1,0 +1,36 @@
+<nav class="navbar navbar-light bg-primary">
+    <div class="container-fluid ">
+        <h1 style="color:aliceblue;"> Room List</h1>
+        <div class="d-flex">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-success" routerLink='/room/add'> Add Room</button>
+        </div>
+    </div>
+</nav>
+<table class="table mt-3" *ngIf="rooms" border=1>
+    <thead>
+        <tr>
+            
+            <th scope="col">Room_id</th>
+            <th scope="col">Room_rate</th>
+            <th scope="col">Room_status</th>
+            <th scope="col">Action</th> 
+        </tr>
+    </thead>
+    <tbody> 
+      <tbody>
+        <tr *ngFor = "let room of rooms">
+            <td>{{room.room_id}}</td>
+            <td>{{room.room_rate}}</td>
+            <td>{{room.room_status}}</td>
+           
+            <td> <button type="button" class="btn btn-primary mr-5" [routerLink]="['/room','edit',room.room_id]">View</button>
+            </td>
+
+        </tr>
+
+    </tbody>
+</table>
+<p *ngIf="!rooms || rooms.length <=0"> No Rooms found</p>
+      
+       
+ 

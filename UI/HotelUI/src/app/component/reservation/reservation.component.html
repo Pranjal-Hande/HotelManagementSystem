@@ -1,0 +1,52 @@
+<nav class="navbar navbar-light bg-primary">
+    <div class="container-fluid ">
+        <h1 style="color:aliceblue;"> Reservation List</h1>
+        <div class="d-flex">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-success" routerLink='/reservation/add'> Make Reservation</button>
+        </div>
+    </div>
+</nav>
+<table class="table mt-3" *ngIf="reservations" border=1>
+    <thead>
+        <tr>
+            
+            <th scope="col">Reservation_id</th>
+            <th scope="col">No_of_adults</th>
+            <th scope="col">No_of_children</th>
+            <th scope="col">Check_out</th>
+            <th scope="col">Check_in</th>
+            <th scope="col">Status</th>
+            <th scope="col">No_of_nights</th>
+            <th scope="col">Guest_Id</th>
+            <th scope="col">Room_id</th>
+            <th scope="col">Action</th> 
+        </tr>
+    </thead>
+    <tbody> 
+      <tbody>
+        <tr *ngFor = "let reservation of reservations">
+
+            <td>{{reservation.reservation_id}}</td>
+            <td>{{reservation.no_of_adults}}</td>
+            <td>{{reservation.no_of_children}}</td>
+            <td>{{reservation.check_out}}</td>
+            <td>{{reservation.check_in}}</td>
+            <td>{{reservation.status}}</td>
+            <td>{{reservation.no_of_nights}}</td>
+            <td>{{reservation.guest_Id}}</td>
+            <td>{{reservation.room_id}}</td>
+            
+            <td> <button type="button" class="btn btn-primary mr-5" [routerLink]="['/reservation','edit',reservation.reservation_id]">View</button>
+                <td> <button type="button" class="btn btn-success mr-5" [routerLink]="['/bill']">Bill</button>
+                </td>
+    
+            
+
+        </tr>
+
+    </tbody>
+</table>
+<p *ngIf="!reservations || reservations.length <=0"> No Reservations found</p>
+      
+       
+ 

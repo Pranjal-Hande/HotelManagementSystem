@@ -1,0 +1,60 @@
+<br>
+<h5 class="modal-title mb-3 ps-4" id="exampleModalLabel">Reservation Details</h5>
+<br>
+ <div class="row">
+            <div class="col-5">
+            <form #form="ngForm" (ngSubmit)="addReservation()">
+                <div class="mb-3 ps-4">
+                  <label for="no_of_adults">No_of_adults :</label>
+                  <input type="number"  class="form-control" id="no_of_adults" name="no_of_adults" [(ngModel)]="addReservationRequest.no_of_adults" >
+                  
+                </div>
+                
+                <div class="mb-3 ps-4">
+                  <label for="no_of_children">No_of_children :</label>
+                  <input type="number"  class="form-control" id="no_of_children" name="no_of_children" [(ngModel)]="addReservationRequest.no_of_children" >
+                </div>
+                
+                  <div class="mb-3 ps-4">
+                    <label for="check_out">Check_out :</label>
+                    <input type="date" class="form-control" id="check_out" name="check_out" [(ngModel)]="addReservationRequest.check_out">
+                  </div>
+                  
+                  <div class="mb-3 ps-4">
+                    <label for="check_in">Check_in :</label>
+                    <input type="date" class="form-control" id="check_in"name="check_in" [(ngModel)]="addReservationRequest.check_in" >
+                  </div>
+
+                  <div class="mb-3 ps-4">
+                    <label for="status">Status :</label>
+                    <input type="text" class="form-control" id="status" name="status" [(ngModel)]="addReservationRequest.status" >
+                  </div>
+
+                  <div class="mb-3 ps-4">
+                    <label for="no_of_nights">No_of_nights :</label>
+                    <input type="number" class="form-control" id="no_of_nights" name="no_of_nights" [(ngModel)]="addReservationRequest.no_of_nights" >
+                  </div>
+                
+                  <div class="mb-3 ps-4">
+                    <label for="guest_Id">Guest_Id :</label>
+                    <input type="text" class="form-control" id="guest_Id" name="guest_Id" [(ngModel)]="addReservationRequest.guest_Id" >
+                  </div>
+
+                  <div class="mb-3 ps-4">
+                    <label for="room_id">Room_id :</label>
+                    <input type="text" class="form-control" id="room_id" name="room_id" [(ngModel)]="addReservationRequest.room_id" >
+                  </div>
+
+                  <br>
+                  <div class="mb-3 ps-4">
+                  <button type="submit" class="btn btn-primary mt-2 mr-2">Add</button>
+
+                  <button type="button" class="btn btn-secondary mt-2 mr-2" data-bs-dismiss="close" routerLink="/reservation">Close</button>
+                 </div>
+                </form>
+            </div>
+        </div>
+       
+       
+          
+        

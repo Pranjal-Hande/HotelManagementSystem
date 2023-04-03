@@ -1,0 +1,81 @@
+<!-- <nav class="navbar navbar-light bg-primary">
+    <div class="container-fluid ">
+        <h1 style="color:aliceblue;"> Bill List</h1>
+        <div class="d-flex">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-success">Add Bill</button>
+        </div>
+    </div>
+</nav>
+<table class="table mt-3" *ngIf="bills" border=1>
+    <thead>
+        <tr>
+            
+            <th scope="col">Bill_id</th>
+            <th scope="col">Stay_days</th>
+            <th scope="col">Room_id</th>
+            <th scope="col">Reservation_id</th>
+            <th scope="col">Total amount</th>
+            <th scope="col">Action</th>
+        
+        
+    
+        </tr>
+    </thead>
+    <tbody> 
+      <tbody>
+        <tr *ngFor = "let bill of bills">
+            <td>{{bill.bill_id}}</td>
+            <td>{{bill.stay_dates}}</td>
+            <td>{{bill.room_id}}</td>
+            <td>{{bill.reservation_id}}</td>
+            <td>6000</td>
+           
+            <td> <button type="button" class="btn btn-primary mr-5" [routerLink]="['/bill','edit',bill.bill_id]">View</button>
+            </td>
+
+        </tr>
+
+    </tbody>
+</table>
+<p *ngIf="!bills || bills.length <=0"> No bills found</p> -->
+      
+       
+  
+       <h5 class="modal-title" id="exampleModalLabel">Bill Details</h5>
+          
+     
+        <div class="modal-body">
+            <form >
+                <div class="form-group mb-3 ps-4">
+                  <label for="stay_dates">Stay_days :</label>
+                  <input type="number"  class="form-control" id="stay_dates" [(ngModel)]="billDetails.stay_dates">
+                  
+                </div>
+                <br>
+                <div class="form-group mb-3 ps-4">
+                  <label for="room_id">Room_id: </label>
+                  <input type="text"  class="form-control" id="room_id" [(ngModel)]="billDetails.room_id">
+                </div><br>
+
+                <div class="form-group mb-3 ps-4">
+                    <label for="reservation_id">Reservation_id :</label>
+                    <input type="text"  class="form-control" id="reservation_id" [(ngModel)]="billDetails.reservation_id">
+                  </div>
+                <br>
+                <div class="form-group mb-3 ps-4">
+                    <label for="amount">Total_amount :</label>
+                    <input type="number"  class="form-control" id="amount">
+                  </div>
+                <br>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">print</button>
+              </form>
+        </div>
+        <br>
+        
+         
+       
+     
+
+
+

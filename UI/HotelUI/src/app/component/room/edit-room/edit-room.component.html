@@ -1,0 +1,36 @@
+<br>
+<h5 class="modal-title mb-3 ps-4" id="exampleModalLabel">Edit Room Details</h5>
+<br>
+ <div class="row">
+            <div class="col-5">
+            <form #form="ngForm" (ngSubmit)="updateRoom()">
+                <div class="mb-3 ps-4">
+                    <label for="room_id">Room_id :</label>
+                    <input type="text"  class="form-control" id="room_id" readonly name="room_id" [(ngModel)]="roomDetails.room_id" >
+                    
+                  </div>
+                  <div class="mb-3 ps-4">
+                    <label for="room_rate">Room_rate :</label>
+                    <input type="number"  class="form-control" id="room_rate" name="room_rate" [(ngModel)]="roomDetails.room_rate" >
+                    
+                  </div>
+                  
+                  <div class="mb-3 ps-4">
+                    <label for="room_status">Room_status : :</label>
+                    <input type="boolean"  class="form-control" id="room_status" name="room_status" [(ngModel)]="roomDetails.room_status" >
+                  </div>
+                  
+                  <br>
+                  <div class="mb-3 ps-4">
+                    <td> <button type="submit" class="btn btn-primary mr-5">Save</button>
+                        <button type="button" class="btn btn-danger" (click)="deleteRoom(roomDetails.room_id)">Delete</button></td>
+                  
+                 </div>
+                </form>
+            </div>
+        </div>
+        <br>
+       
+          
+        
+
